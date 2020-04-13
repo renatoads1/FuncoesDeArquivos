@@ -1,0 +1,13 @@
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.deps.json
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.runtimeconfig.json
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.runtimeconfig.dev.json
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\bin\Debug\netcoreapp3.1\Arquivos.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.csprojAssemblyReference.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.csproj.CoreCompileInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.AssemblyInfoInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.AssemblyInfo.cs
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\Arquivos\obj\Debug\netcoreapp3.1\Arquivos.genruntimeconfig.cache
